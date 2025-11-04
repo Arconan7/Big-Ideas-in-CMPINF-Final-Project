@@ -3,6 +3,7 @@ Defining the best neighborhood in Pittsburgh since 2025!
 
 ## Group Info
 - **Team Name:** Big Ideas is AWESOME!!!
+  - *Group 14 in Canvas*
 - **Team Members:**
   -  Aidan Russell - *acr163@pitt.edu*
   -  Tyler Cutting - *tgc20@pitt.edu*
@@ -21,4 +22,4 @@ Defining the best neighborhood in Pittsburgh since 2025!
       - Outlines *stuff*
       - Analyzed by Tyler
 - **One Sentence Overview:**
-  - Defining the best neighborhood in Pittsburgh to live in, using the metrics of fire activity, crime, and the availibility of playgrounds.
+  - Defining the best neighborhood in Pittsburgh to live in, using the metrics of fire activity, crime, and the availibility of playgrounds to define saftey and fun for a family.
