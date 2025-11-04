@@ -9,7 +9,7 @@ Defining the best neighborhood in Pittsburgh since 2025!
   -  Ryan McCue - *rgm57@pitt.edu*
 - **Datasets:**
   - Data!
-    - [City of Pittsburgh Playgrounds](https://data.wprdc.org/dataset/playgrounds/) by the City of Pittsburgh
+    - [City of Pittsburgh Playgrounds](https://data.wprdc.org/dataset/playgrounds) by the City of Pittsburgh
       - Outlines information regarding Pittsburgh's playgrounds, the neighborhoods they can be found in, and much more.
       - Analyzed by Aidan
   - More data!
