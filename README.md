@@ -9,15 +9,15 @@ Defining the best neighborhood in Pittsburgh since 2025!
   -  Ryan McCue - *rgm57@pitt.edu*
 - **Datasets:**
   - Data!
-    - (`City of Pittsburgh Playgrounds`)[https://data.wprdc.org/dataset/playgrounds/] by the City of Pittsburgh
+    - (City of Pittsburgh Playgrounds)[https://data.wprdc.org/dataset/playgrounds/] by the City of Pittsburgh
       - Outlines information regarding Pittsburgh's playgrounds, the neighborhoods they can be found in, and much more.
       - Analyzed by Aidan
   - More data!
-    - (`Fire Incidents in City of Pittsburgh`)[https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh] by the City of Pittsburgh
+    - (Fire Incidents in City of Pittsburgh)[https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh] by the City of Pittsburgh
       - Outlines *stuff*
       - Analyzed by Ryan
   - Some more data!
-    - (`Monthly Criminal Activity`)[https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard] by the City of Pittsburgh
+    - (Monthly Criminal Activity)[https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard] by the City of Pittsburgh
       - Outlines *stuff*
       - Analyzed by Tyler
     - https://data.wprdc.org/dataset/monthly-criminal-activity/
