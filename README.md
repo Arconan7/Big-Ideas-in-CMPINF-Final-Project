@@ -9,10 +9,17 @@ Defining the best neighborhood in Pittsburgh since 2025!
   -  Ryan McCue - *rgm57@pitt.edu*
 - **Datasets:**
   - Data!
-    - https://data.wprdc.org/dataset/playgrounds/resource/47350364-44a8-4d15-b6e0-5f79ddff9367
+    - (`City of Pittsburgh Playgrounds`)[https://data.wprdc.org/dataset/playgrounds/] by the City of Pittsburgh
+      - Outlines information regarding Pittsburgh's playgrounds, the neighborhoods they can be found in, and much more.
+      - Analyzed by Aidan
   - More data!
-    - https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh/resource/8d76ac6b-5ae8-4428-82a4-043130d17b02
+    - (`Fire Incidents in City of Pittsburgh`)[https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh] by the City of Pittsburgh
+      - Outlines *stuff*
+      - Analyzed by Ryan
   - Some more data!
-    - https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard/resource/bd41992a-987a-4cca-8798-fbe1cd946b07
+    - (`Monthly Criminal Activity`)[https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard] by the City of Pittsburgh
+      - Outlines *stuff*
+      - Analyzed by Tyler
+    - https://data.wprdc.org/dataset/monthly-criminal-activity/
 - **One Sentence Overview:**
   - Defining the best neighborhood in Pittsburgh to live in, using the metrics of fire activity, crime, and the availibility of playgrounds.
