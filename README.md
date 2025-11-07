@@ -14,7 +14,7 @@ Defining the best neighborhood in Pittsburgh since 2025!
       - Outlines information regarding Pittsburgh's playgrounds, the neighborhoods they can be found in, and much more.
       - Analyzed by Aidan
   - More data!
-    - [Fire Incidents in City of Pittsburgh](https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh) by the City of Pittsburgh
+    - [Sidewalk to Street "Walkability" Ratio](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio) by the Western Pennsylvania Regional Data Center
       - Outlines *stuff*
       - Analyzed by Ryan
   - Some more data!
