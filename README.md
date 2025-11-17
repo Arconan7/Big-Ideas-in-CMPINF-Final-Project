@@ -14,8 +14,8 @@ Defining the best neighborhood in Pittsburgh since 2025!
       - Outlines information regarding Pittsburgh's playgrounds, the neighborhoods they can be found in, and much more.
       - Analyzed by Aidan
   - More data!
-    - [Sidewalk to Street "Walkability" Ratio](https://data.wprdc.org/dataset/sidewalk-to-street-walkability-ratio) by the Western Pennsylvania Regional Data Center
-      - Outlines *stuff*
+    - [City of Pittsburgh Traffic Count](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh) by the City of Pittsburgh
+      - Outlines average daily car count, speed limits, percentage of speeding drivers. and more, categorized by neighborhood.
       - Analyzed by Ryan
   - Some more data!
     - [Monthly Criminal Activity](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard) by the City of Pittsburgh
