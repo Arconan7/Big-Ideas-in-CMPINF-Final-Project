@@ -15,7 +15,7 @@ Defining the best neighborhood in Pittsburgh since 2025!
       - Analyzed by Aidan
   - More data!
     - [City of Pittsburgh Traffic Count](https://data.wprdc.org/dataset/traffic-count-data-city-of-pittsburgh) by the City of Pittsburgh
-      - Outlines average daily car count, speed limits, percentage of speeding drivers. and more, categorized by neighborhood.
+      - Outlines average daily car count, speed limits, percentage of speeding drivers, and more, categorized by neighborhood.
       - Analyzed by Ryan
   - Some more data!
     - [Monthly Criminal Activity](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard) by the City of Pittsburgh
