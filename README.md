@@ -19,7 +19,7 @@ Defining the best neighborhood in Pittsburgh since 2025!
       - Analyzed by Ryan
   - Some more data!
     - [Monthly Criminal Activity](https://data.wprdc.org/dataset/monthly-criminal-activity-dashboard) by the City of Pittsburgh
-      - Outlines *stuff*
+      - Outlines crime counts in each neighborhoods and standardizes it for the population.
       - Analyzed by Tyler
 - **One Sentence Overview:**
   - Defining the best neighborhood in Pittsburgh to live in, using the metrics of fire activity, crime, and the availibility of playgrounds to define saftey and fun for a family.
