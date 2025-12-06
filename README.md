@@ -22,4 +22,4 @@ Defining the best neighborhood in Pittsburgh since 2025!
       - Outlines crime counts in each neighborhoods and standardizes it for the population.
       - Analyzed by Tyler
 - **One Sentence Overview:**
-  - Defining the best neighborhood in Pittsburgh to live in, using the metrics of fire activity, crime, and the availibility of playgrounds to define saftey and fun for a family.
+  - Defining the best neighborhood in Pittsburgh to live in, using the metrics of traffic activity, crime, and the availibility of playgrounds to define saftey and fun for a family.
